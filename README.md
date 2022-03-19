@@ -111,7 +111,7 @@ nav a:hover {
 </head>
 ``` 
 * selanjutnya refresh kembali pada browser unutk melihat perubahan menjadi seperti ini
-![eksternal](img/eksternal.png)
+![eksternal](img/CSS_eksternal.png)
 ## 5. Menambahkan CSS Selector
 * selanjutnya menambahkan CSS Selector menggunkan ID dan class Selector pada file style_eksternal.css dan menambahkan kode seperti berikut 
 ```

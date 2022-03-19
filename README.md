@@ -75,7 +75,7 @@
 ```
 
 * model Praktikum pemrograman web Maka hasilnya akan seperti berikut.
-![internal](img/css_internal.png)
+![internal](img/CSS_internal.png)
 
 ## 3. Menambahkan Inline CSS
 * Menambahkan Inline CSS
